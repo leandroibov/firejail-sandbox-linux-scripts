@@ -1,0 +1,4 @@
+#!/bin/bash
+#Firefox1 firejail
+echo "firejail --ipc-namespace --machine-id firefox;";
+firejail --ipc-namespace --machine-id firefox;

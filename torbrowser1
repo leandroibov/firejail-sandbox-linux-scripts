@@ -1,0 +1,4 @@
+#!/bin/bash
+#TorBrowser no firejail
+echo "firejail --seccomp --ipc-namespace --machine-id --private-tmp ~/Downloads/tor-browser/Browser/start-tor-browser;";
+firejail --seccomp --ipc-namespace --machine-id --private-tmp ~/Downloads/tor-browser/Browser/start-tor-browser;

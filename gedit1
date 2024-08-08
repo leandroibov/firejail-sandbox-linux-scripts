@@ -1,0 +1,4 @@
+#!/bin/bash
+#Gedit firejail
+echo "firejail --net=none --seccomp gedit;";
+firejail --net=none --seccomp gedit;

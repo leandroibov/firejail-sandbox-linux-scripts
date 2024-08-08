@@ -1,0 +1,4 @@
+#!/bin/bash
+#keepassxc sem net
+echo "firejail --net=none keepassxc; ";
+firejail --net=none keepassxc; 

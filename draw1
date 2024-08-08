@@ -1,0 +1,4 @@
+#!/bin/bash
+#Draw firejail
+echo "firejail --net=none --seccomp libreoffice --draw;";
+firejail --net=none --seccomp libreoffice --draw;

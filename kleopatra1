@@ -1,0 +1,4 @@
+#!/bin/bash
+#Kleopatra firejail
+echo "firejail --net=none --seccomp kleopatra;";
+firejail --net=none --seccomp kleopatra;

@@ -1,0 +1,4 @@
+#!/bin/bash
+#TorBrowser nosound (sem som) no firejail
+echo "firejail --seccomp --private-tmp --nosound --ipc-namespace --machine-id ~/Downloads/tor-browser/Browser/start-tor-browser;";
+firejail --seccomp --private-tmp --nosound --ipc-namespace --machine-id ~/Downloads/tor-browser/Browser/start-tor-browser;

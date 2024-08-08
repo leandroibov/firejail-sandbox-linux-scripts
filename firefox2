@@ -1,0 +1,4 @@
+#!/bin/bash
+#Firefox2 firejail
+echo "firejail --private --private-tmp --ipc-namespace --machine-id firefox;";
+firejail --private --private-tmp --ipc-namespace --machine-id firefox;

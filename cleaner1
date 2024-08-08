@@ -1,0 +1,4 @@
+#!/bin/bash
+#Metadata Cleaner firejail
+echo "firejail --net=none --seccomp metadata-cleaner;"
+firejail --net=none --seccomp metadata-cleaner;

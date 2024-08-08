@@ -1,0 +1,3 @@
+#!/bin/bash
+#Word Writer firejail
+firejail --net=none --seccomp libreoffice --writer;

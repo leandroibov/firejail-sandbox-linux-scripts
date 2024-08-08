@@ -1,0 +1,4 @@
+#!/bin/bash
+#Math firejail
+echo "firejail --net=none --seccomp libreoffice --math;";
+firejail --net=none --seccomp libreoffice --math;

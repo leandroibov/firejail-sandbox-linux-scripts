@@ -1,0 +1,4 @@
+#!/bin/bash
+#gimp sem net
+echo "firejail --net=none gimp;";
+firejail --net=none gimp; 

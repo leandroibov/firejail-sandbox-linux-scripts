@@ -1,0 +1,4 @@
+#!/bin/bash
+#Evince firejail
+echo "firejail --net=none --seccomp evince;";
+firejail --net=none --seccomp evince;

@@ -1,0 +1,3 @@
+#!/bin/bash
+#Session firejail
+firejail --noprofile --private --private-tmp session-desktop;

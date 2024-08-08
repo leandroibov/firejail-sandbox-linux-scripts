@@ -1,0 +1,4 @@
+#!/bin/bash
+#gnome-disks firejail
+echo "firejail --net=none --seccomp gnome-disks;";
+firejail --net=none --seccomp gnome-disks;

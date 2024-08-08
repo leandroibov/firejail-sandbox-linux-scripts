@@ -1,0 +1,6 @@
+#!/bin/bash
+#Telegram firejail
+firejail --noprofile --seccomp --caps.drop=all /home/leking/Telegram/Telegram;
+
+
+

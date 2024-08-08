@@ -1,0 +1,4 @@
+#!/bin/bash
+#Brave Browser1 firejail
+echo "firejail brave-browser;";
+firejail brave-browser;

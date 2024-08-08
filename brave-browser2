@@ -1,0 +1,4 @@
+#!/bin/bash
+#Brave Browser1 firejail
+echo "firejail --private --private-tmp brave-browser;"
+firejail --private --private-tmp brave-browser;

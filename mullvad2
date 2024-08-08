@@ -1,0 +1,4 @@
+#!/bin/bash
+#Mullvad Browser sem som no firejail
+echo "firejail --noprofile --nosound --ipc-namespace --machine-id ~/Downloads/mullvad-browser/Browser/start-mullvad-browser;";
+firejail --noprofile --nosound --ipc-namespace --machine-id ~/Downloads/mullvad-browser/Browser/start-mullvad-browser;

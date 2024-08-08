@@ -1,0 +1,4 @@
+#!/bin/bash
+#Nautilus firejail
+echo "firejail --net=none --seccomp nautilus;";
+firejail --net=none --seccomp nautilus;

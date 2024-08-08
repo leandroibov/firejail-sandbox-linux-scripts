@@ -1,0 +1,4 @@
+#!/bin/bash
+#Word Calc Excel firejail
+echo "firejail --net=none --seccomp libreoffice --calc;";
+firejail --net=none --seccomp libreoffice --calc;

@@ -1,0 +1,4 @@
+#!/bin/bash
+#Libreoffice firejail
+echo "firejail --net=none --seccomp libreoffice --base;";
+firejail --net=none --seccomp libreoffice --base;

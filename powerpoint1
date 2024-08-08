@@ -1,0 +1,4 @@
+#!/bin/bash
+#Word Impress Power Point firejail
+echo "firejail --net=none --seccomp libreoffice --impress;";
+firejail --net=none --seccomp libreoffice --impress;
