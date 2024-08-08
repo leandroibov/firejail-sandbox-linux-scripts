@@ -1,5 +1,9 @@
 hashs
+
+
 sha256sum
+
+
 a16d4637c6ac548c24ef5b1435d8fddc8c389fb3e92bab8d39a668f1de42cc4d  brave-browser1
 9e3265d1f1ebcf4399da58832c978512fbfb3bc7dc8a0eb356ea6cb206044bb1  brave-browser2
 1e70e35e9f459fc9fc68a27b580d8b70f6a6f34342d3339e08e5e21bd314fd66  cleaner1
