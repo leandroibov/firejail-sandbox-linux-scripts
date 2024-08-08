@@ -41,6 +41,8 @@ Como usar:
 
 #######################################################################
 
+#Atenção: para tor browser e mullvad browser, tem que estar instalado e em ~/Downloads, isto é a pasta tor-browser e mullvad-browser.
+
 
 #copie todos os scripts para /bin e autorize a execução deles pelo chmod +x!
 
