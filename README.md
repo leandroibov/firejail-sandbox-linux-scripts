@@ -79,3 +79,18 @@ brave-browser2;
 
 #o comando será mostrado no terminal e executado!
 
+
+####################################################
+
+
+
+Vídeo tutorial completo:
+
+https://www.youtube.com/watch?v=uIUffeNU1TA
+
+Artigo mais detalhado e avançado:
+
+https://www.traderprofissional.com.br/seguranca-digital.aspx
+
+###################################################################
+
