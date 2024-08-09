@@ -1,0 +1,4 @@
+#!/bin/bash
+#obs sem net
+echo "firejail --net=none obs; ";
+firejail --net=none obs; 
