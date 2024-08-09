@@ -1,3 +1,4 @@
 #!/bin/bash
 #Word Writer firejail
+echo "firejail --net=none --seccomp libreoffice --writer;"
 firejail --net=none --seccomp libreoffice --writer;

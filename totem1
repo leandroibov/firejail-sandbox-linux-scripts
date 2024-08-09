@@ -1,0 +1,4 @@
+#!/bin/bash
+#totem firejail
+echo "firejail --net=none --seccomp totem;";
+firejail --net=none --seccomp totem;

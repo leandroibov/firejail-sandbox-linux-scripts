@@ -1,9 +1,9 @@
 #!/bin/bash
 #Telegram firejail
-echo "firejail --noprofile --seccomp --caps.drop=all ~/Telegram/Telegram;"
+echo "firejail --noprofile --seccomp --caps.drop=all --nosound --novideo ~/Telegram/Telegram;"
 echo "Baixe e instale o telegram versão de pasta na pasta ~/Telegram/ para esse script funcionar!"
 echo "Get Telegram for Linux, não é versão de snap e nem flatpak: https://desktop.telegram.org/"
-firejail --noprofile --seccomp --caps.drop=all ~/Telegram/Telegram;
+firejail --noprofile --seccomp --caps.drop=all --nosound --novideo ~/Telegram/Telegram;
 
 
 

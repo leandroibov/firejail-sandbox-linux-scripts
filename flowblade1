@@ -1,0 +1,4 @@
+#!/bin/bash
+#Flowblade firejail
+echo "firejail --net=none flowblade;";
+firejail --net=none flowblade;

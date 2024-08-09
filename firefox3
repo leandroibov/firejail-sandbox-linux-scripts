@@ -1,0 +1,4 @@
+#!/bin/bash
+#Firefox2 firejail
+echo "firejail --private --private-tmp --nosound --novideo --machine-id --ipc-namespace --caps.drop=all firefox;";
+firejail --private --private-tmp --nosound --novideo --machine-id --ipc-namespace --caps.drop=all firefox;

@@ -1,0 +1,4 @@
+#!/bin/bash
+#vlc firejail
+echo "firejail --net=none --seccomp vlc;";
+firejail --net=none --seccomp vlc;

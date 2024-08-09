@@ -1,0 +1,4 @@
+#!/bin/bash
+#Brave Browser1 firejail
+echo "firejail --private --private-tmp --nosound --novideo --machine-id --ipc-namespace --caps.drop=all brave-browser;"
+firejail --private --private-tmp --nosound --novideo --machine-id --ipc-namespace --caps.drop=all brave-browser;
