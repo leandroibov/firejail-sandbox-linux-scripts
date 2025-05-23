@@ -1,12 +1,10 @@
 
 
-#######################################################################
 
 
-Como usar:
+# Como usar:
 
 
-#######################################################################
 
 #Atenção: para tor browser e mullvad browser, tem que estar instalado e em ~/Downloads, isto é a pasta tor-browser e mullvad-browser.
 
@@ -37,11 +35,11 @@ brave-browser2;
 #o comando será mostrado no terminal e executado!
 
 
-####################################################
 
 
 
-Vídeo tutorial completo:
+
+## Vídeo tutorial completo:
 
 https://www.youtube.com/watch?v=uIUffeNU1TA
 
@@ -49,26 +47,17 @@ Artigo mais detalhado e avançado:
 
 https://www.traderprofissional.com.br/seguranca-digital.aspx
 
-###################################################################
-
-
-
-##################################################################################################
-
-Doe monero para nos ajudar: 
-
-87JGuuwXzoMGwQAcSD7cvS7D7iacPpN2f5bVqETbUvCgdEmrPZa12gh5DSiKKRgdU7c5n5x1UvZLj8PQ7AAJSso5CQxgjak
 
 
 
 
-Página oficial de segurança digital:
 
-https://traderprofissional.com.br/seguranca-digital.aspx
 
-Vídeo tutorial youtube: 
+# Doe monero para nos ajudar: (donate XMR)
 
-https://www.youtube.com/watch?v=uIUffeNU1TA&t=3s
+    87JGuuwXzoMGwQAcSD7cvS7D7iacPpN2f5bVqETbUvCgdEmrPZa12gh5DSiKKRgdU7c5n5x1UvZLj8PQ7AAJSso5CQxgjak
+
+
 
 
 
